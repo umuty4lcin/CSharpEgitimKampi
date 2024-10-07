@@ -300,7 +300,7 @@ namespace _03_MakingDecision
             //        Console.WriteLine($"{num1} {operation} {num2} = {result}");
             //        break;
             //}
-
+            
             #endregion
 
             Console.Read();
